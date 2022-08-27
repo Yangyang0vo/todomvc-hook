@@ -1,4 +1,4 @@
-# React Todos-hook版
+# React Todomvc-hook版
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
